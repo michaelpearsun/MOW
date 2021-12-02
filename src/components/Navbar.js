@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import { ButtonContainer } from './Button';
 import chefhat from '../chefhat.svg'
-import kfs from '../kfs.svg'
 
 export default class Navbar extends Component {
     render() {

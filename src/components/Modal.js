@@ -37,10 +37,9 @@ export default class Modal extends Component {
                                     </div>
                                 </div>
                             </div>
-                        </ModalContainer>)
-
+                        </ModalContainer>
+                        );
                     }
-                    return
                 }}
             </ProductConsumer>
         );
