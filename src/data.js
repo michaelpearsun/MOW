@@ -47,7 +47,7 @@ export const storeProducts = [
       count: 0,
       total: 0
     },
-    {
+   /* {
       id: 5,
       title: "HTC Desire 626s",
       img: "img/product-5.png",
@@ -94,7 +94,7 @@ export const storeProducts = [
       inCart: false,
       count: 0,
       total: 0
-    }
+    } */
   ];
   
   export const detailProduct = {
